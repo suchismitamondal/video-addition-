@@ -1,0 +1,37 @@
+#jam{
+    position: fixed;
+    size: cover;
+    top:0;
+    right:0;
+    left:0;
+    min-height: 0%;
+    min-width: 0%;
+}
+
+.olaf{
+    position: relative;
+    top: 20;
+    color: #f1f1f1;
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    padding: 10px;
+  }
+  .elsa{
+    position: relative;
+    top: 200;
+    color: #f1f1f1;
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    padding: 10px;
+  }
+  li{
+    padding-top: 20px;
+    padding-bottom: 80px;
+  }
+  dl{
+      padding-top:5px;
+      padding-bottom:0;
+  }
+  nav ul{
+    list-style-type: none;
+    padding: 0;
